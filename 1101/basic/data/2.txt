@@ -1,0 +1,146 @@
+[
+    {
+        "moviesName": "霸王别姬",
+        "sore": "9.6",
+        "content": "张国荣主演经典作",
+        "img": "https://image11.m1905.cn/uploadfile/2013/0816/thumb_1_150_203_20130816013533696.jpg"
+    },
+    {
+        "moviesName": "一代宗师",
+        "sore": "9.5",
+        "content": "王家卫八年磨一剑",
+        "img": "https://image11.m1905.cn/uploadfile/2015/0108/thumb_1_150_203_20150108045256121510.jpg"
+    },
+    {
+        "moviesName": "举起手来",
+        "sore": "9.4",
+        "content": "嘻闹悲情笑泪齐飞",
+        "img": "https://image11.m1905.cn/uploadfile/2009/1106/thumb_1_150_203_20091106112357202.jpg"
+    },
+    {
+        "moviesName": "大闹天宫",
+        "sore": "9.3",
+        "content": "中国动画史上颠峰",
+        "img": "https://image11.m1905.cn/uploadfile/2019/0513/thumb_1_150_203_20190513022206575041.jpg"
+    },
+    {
+        "moviesName": "摩登时代",
+        "sore": "9.2",
+        "content": "卓别林之讽刺杰作",
+        "img": "https://image11.m1905.cn/uploadfile/2018/1205/thumb_1_150_203_20181205105605151777.jpg"
+    },
+    {
+        "moviesName": "杀破狼2",
+        "sore": "9.2",
+        "content": "吴京对决托尼·贾",
+        "img": "https://image11.m1905.cn/uploadfile/2015/1211/thumb_1_150_203_20151211010829660352.jpg"
+    },
+    {
+        "moviesName": "爱情天梯",
+        "sore": "5.9",
+        "content": "真实爱情故事改编",
+        "img": "https://image11.m1905.cn/uploadfile/2013/0108/thumb_1_150_203_20130108094117679.jpg"
+    },
+    {
+        "moviesName": "焦裕禄",
+        "sore": "9.2",
+        "content": "真实再现人民书记",
+        "img": "https://image11.m1905.cn/uploadfile/2009/1106/thumb_1_150_203_20091106112853163.jpg"
+    },
+    {
+        "moviesName": "我这一辈子",
+        "sore": "9.1",
+        "content": "石挥执导代表作品",
+        "img": "https://image11.m1905.cn/uploadfile/2013/0828/thumb_1_150_203_20130828125924409.jpg"
+    },
+    {
+        "moviesName": "天书奇谭",
+        "sore": "9.1",
+        "content": "小英雄蛋生斗妖精",
+        "img": "https://image11.m1905.cn/uploadfile/2014/0416/thumb_1_150_203_20140416112533626366.jpg"
+    },
+    {
+        "moviesName": "一起飞",
+        "sore": "9.1",
+        "content": "林志颖恋上张娜拉 ",
+        "img": "https://image11.m1905.cn/uploadfile/2018/0306/thumb_1_150_203_20180306022519674571.jpg"
+    },
+    {
+        "moviesName": "百团大战",
+        "sore": "9.1",
+        "content": "抗日战争经典战役",
+        "img": "https://image11.m1905.cn/uploadfile/2017/0309/thumb_1_150_203_20170309104002140376.jpg"
+    },
+    {
+        "moviesName": "完美有多美",
+        "sore": "9.1",
+        "content": "萌叔穿越暖心重生",
+        "img": "https://image11.m1905.cn/uploadfile/2017/0331/thumb_1_150_203_20170331113224898638.jpg"
+    },
+    {
+        "moviesName": "信天游",
+        "sore": "9.1",
+        "content": "郭达做百姓好书记",
+        "img": "https://image11.m1905.cn/uploadfile/2014/0714/thumb_1_150_203_20140714121035323831.jpg"
+    },
+    {
+        "moviesName": "开天辟地",
+        "sore": "9.1",
+        "content": "建党历程坎坷光荣",
+        "img": "https://image11.m1905.cn/uploadfile/2016/0725/thumb_1_150_203_20160725115403574503.jpg"
+    },
+    {
+        "moviesName": "跑出一片天",
+        "sore": "9.0",
+        "content": "杨幂领衔运动风尚",
+        "img": "https://image11.m1905.cn/uploadfile/2013/0523/thumb_1_150_203_20130523012715950.jpg"
+    },
+    {
+        "moviesName": "穆桂英挂帅",
+        "sore": "9.0",
+        "content": "豫剧经典巾帼女将",
+        "img": "https://image11.m1905.cn/uploadfile/2020/1224/thumb_1_150_203_20201224094544955646.jpg"
+    },
+    {
+        "moviesName": "神女",
+        "sore": "9.0",
+        "content": "母爱与风尘的消融",
+        "img": "https://image11.m1905.cn/uploadfile/2013/0912/thumb_1_150_203_20130912020251162.jpg"
+    },
+    {
+        "moviesName": "秋收起义",
+        "sore": "9.0",
+        "content": "宏大场面还原历史",
+        "img": "https://image11.m1905.cn/uploadfile/2013/1010/thumb_1_150_203_20131010011342832.jpg"
+    },
+    {
+        "moviesName": "我是路人甲",
+        "sore": "9.0",
+        "content": "真实龙套草根逆袭",
+        "img": "https://image11.m1905.cn/uploadfile/2015/1020/thumb_1_150_203_20151020020219549676.jpg"
+    },
+    {
+        "moviesName": "叶问2首映礼",
+        "sore": "9.0",
+        "content": "一代武术宗师传奇",
+        "img": "https://image11.m1905.cn/uploadfile/s2010/0417/thumb_1_150_203_20100417114631999.jpg"
+    },
+    {
+        "moviesName": "坑爹游戏",
+        "sore": "9.0",
+        "content": "野蛮女儿复仇老爸",
+        "img": "https://image11.m1905.cn/uploadfile/2018/0416/thumb_1_150_203_20180416030256549229.jpg"
+    },
+    {
+        "moviesName": "哪吒闹海",
+        "sore": "9.0",
+        "content": "哪吒闹海大战龙王",
+        "img": "https://image11.m1905.cn/uploadfile/2014/0814/thumb_1_150_203_20140814040943188279.jpg"
+    },
+    {
+        "moviesName": "《搜索》首映",
+        "sore": "9.0",
+        "content": "首映典礼独家聚焦",
+        "img": "https://image11.m1905.cn/uploadfile/2012/0703/thumb_1_150_203_20120703102349765.jpg"
+    }
+]
